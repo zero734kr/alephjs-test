@@ -1,4 +1,4 @@
-import React, { ComponentType } from 'react'
+import React, { ComponentType } from 'https://cdn.skypack.dev/react'
 
 export default function App({ Page, pageProps }: { Page: ComponentType<any>, pageProps: any }) {
   return (
